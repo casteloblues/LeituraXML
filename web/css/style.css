@@ -1,0 +1,14 @@
+* {
+    font-family: Verdana, Arial;
+}
+
+section {
+    width:400px;
+    margin:0 auto;
+}
+
+article {
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin: 20px;
+}
